@@ -1,5 +1,7 @@
 <h1> A tour of my projects </h1>
 
+<a href="Readme">Home</a>
+
 <b> 1 </b>
 <h3>
 SEAMLESS GRADING OF COMBINED SUBJECTS
