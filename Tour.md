@@ -1,5 +1,6 @@
 <h1> A tour of my projects </h1>
 
+<b> 1 </b>
 <h3>
 SEAMLESS GRADING OF COMBINED SUBJECTS
 </h3>
