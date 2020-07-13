@@ -1,6 +1,6 @@
 <h1> A tour of my projects </h1>
 
-<a href="Readme">Home</a>
+<a href="Index">Home</a>
 
 <b> 1 </b>
 <h3>
