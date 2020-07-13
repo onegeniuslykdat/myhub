@@ -19,4 +19,4 @@ I am a Nigerian of Igbo decent, in case, you were wondering; and I want to see m
 
 <b> I HOPE YOU FIND INTERESTING IDEAS IN MY HUB. </b>
 
-<a href="~/Tour.md">Take a tour</a>
+<a href="/Tour.md">Take a tour</a>
