@@ -11,4 +11,4 @@ Speaking from experience, it can be very hectic...
 <h5>
   Here come Easy Grade... Get started now and stop stressing yourself.
   </h5>
-<a href="easygrade.com.ng">Go to Easy Grade</a>
+<a href="www.easygrade.com.ng">Go to Easy Grade</a>
