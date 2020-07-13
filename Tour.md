@@ -7,6 +7,8 @@ SEAMLESS GRADING OF COMBINED SUBJECTS
 <h5>
 If you are a Basic Science and Technology teacher, how do you manage grading your subject and getting the averages.
 Speaking from experience, it can be very hectic...
-Here come Easy Grade... Get started now and stop stressing yourself.
-<a href="easygrade.com.ng">Go to Easy Grade</a>
 </h5>
+<h5>
+  Here come Easy Grade... Get started now and stop stressing yourself.
+  </h5>
+<a href="easygrade.com.ng">Go to Easy Grade</a>
