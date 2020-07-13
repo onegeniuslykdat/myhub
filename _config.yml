@@ -2,7 +2,6 @@ theme: jekyll-theme-modernist
 
 include:
 
-  
   - README.md
   - Tour.md
   - LICENSE.md
