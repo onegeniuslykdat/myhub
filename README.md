@@ -1,5 +1,5 @@
 # My HUB
-
+<body>
 <h1> Welcome! </h1>
 
 <h3>
@@ -20,3 +20,4 @@ I am a Nigerian of Igbo decent, in case, you were wondering; and I want to see m
 <b> I HOPE YOU FIND INTERESTING IDEAS IN MY HUB. </b>
 
 <a href="Tour">Take a tour</a>
+</body>
