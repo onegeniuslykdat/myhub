@@ -1,6 +1,6 @@
 <h1> A tour of my projects </h1>
 
-<a href="Index">Home</a>
+<a href="/">Home</a>
 
 <b> 1 </b>
 <h3>
