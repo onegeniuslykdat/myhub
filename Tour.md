@@ -30,4 +30,4 @@ So being at home for a while, I decided to add a new skill to my Arsenal, a powe
 <h5>
 The aim is to make us more aware of our representatives and demand for better representation. Full website coming soon.
 </h5>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWVjNjg5ZDAtNTMwNC00YWEwLWFkZDYtMjIzMDVmZWZiZDI5IiwidCI6IjRmMTc1MjJjLTE0MmEtNDVkNS05NWMwLTVhMWNjNTNlMDIwZCJ9" target="_blank">KNOW YOUR SENATORS</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMWVjNjg5ZDAtNTMwNC00YWEwLWFkZDYtMjIzMDVmZWZiZDI5IiwidCI6IjRmMTc1MjJjLTE0MmEtNDVkNS05NWMwLTVhMWNjNTNlMDIwZCJ9&pageName=ReportSection" target="_blank">KNOW YOUR SENATORS</a>
