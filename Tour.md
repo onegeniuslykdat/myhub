@@ -30,4 +30,10 @@ So being at home for a while, I decided to add a new skill to my Arsenal, a powe
 <h5>
 The aim is to make us more aware of our representatives and demand for better representation. Full website coming soon.
 </h5>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWVjNjg5ZDAtNTMwNC00YWEwLWFkZDYtMjIzMDVmZWZiZDI5IiwidCI6IjRmMTc1MjJjLTE0MmEtNDVkNS05NWMwLTVhMWNjNTNlMDIwZCJ9&pageName=ReportSection" target="_blank">KNOW YOUR SENATORS</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMDdkMzYwNjQtMDEyOC00ODMwLThjNWMtNzQ5OTgyZDE2ODVlIiwidCI6IjRmMTc1MjJjLTE0MmEtNDVkNS05NWMwLTVhMWNjNTNlMDIwZCJ9" target="_blank">KNOW YOUR SENATORS</a>
+
+<h5>Some other dashboards:</h5>
+<ul>
+  <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYjgzMDFmM2YtNzhjZS00NWI0LTlhYmEtNmI2M2JiZmI1Zjc0IiwidCI6IjRmMTc1MjJjLTE0MmEtNDVkNS05NWMwLTVhMWNjNTNlMDIwZCJ9&pageName=ReportSection41484746c1935240998c">Company Sales insights</a></li>
+  <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYjFkYjNkZmQtNGU2Ni00MjQ3LWJlYTktMjhhN2Y1MThlMWJlIiwidCI6IjRmMTc1MjJjLTE0MmEtNDVkNS05NWMwLTVhMWNjNTNlMDIwZCJ9&pageName=ReportSection">Super Store Insights</a></li>
+  </ul>
