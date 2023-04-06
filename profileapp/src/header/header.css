@@ -1,0 +1,82 @@
+header {
+    background-color: #282c34;
+    display: grid;
+}
+
+#logodiv {
+    grid-area: logo;
+}
+
+nav {
+    grid-area: nav;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+/*Mobile*/
+@media screen and (min-width: 200px) {
+    header {
+        grid-template-areas: "logo logo logo logo logo logo"
+        "nav nav nav nav nav nav";
+    }
+
+    header img {
+        width: 35%;
+        margin: auto;
+        display: block;
+    }
+
+    header ul {
+        display: block;
+        list-style-type: none;
+        margin: 3%;
+    }
+
+    nav {
+        text-align: center;
+        padding: 0;
+        font-size: 1em;
+    }    
+}
+
+/*Tablet*/
+/* @media screen and (min-width: 760px) {
+    header {
+        grid-template-areas: "logo logo logo logo logo logo"
+        "nav nav nav nav nav nav";
+    }
+} */
+
+/*Desktop*/
+@media screen and (min-width: 960px) {
+    header {
+        grid-template-areas: "logo logo nav nav nav nav";
+    }
+
+    header img {
+        width: 20%;
+    }
+
+    header ul {
+        display: inline-block;
+        list-style: none;
+        margin: 3%;
+    }
+
+    #logodiv {
+        padding: 1%;
+        margin: 1%;
+    }
+
+    nav {
+        margin: 1%;
+        text-align: end;
+    }
+
+    nav li {
+        display: inline-block;
+    }
+}

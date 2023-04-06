@@ -32,7 +32,47 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
+  }
+}
+
+/*Grid Areas*/
+header {
+  grid-area: header;
+}
+
+#side {
+  grid-area: side;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
+
+/*Mobile*/
+@media screen and (max-width: 640px) {}
+
+/*Tablet*/
+@media screen and (max-width: 7600px) {}
+
+/*Desktop*/
+@media screen and (max-width: 120px) {
+  div#root {
+    display: grid;
+    gap: 30px;
+    grid-template-areas: "header header header header header header"
+      "side side main main main main"
+      "side side main main main main"
+      "side side main main main main"
+      "side side main main main main"
+      "side side main main main main"
+      "side side main main main main"
+      "footer footer footer footer footer footer";
   }
 }
