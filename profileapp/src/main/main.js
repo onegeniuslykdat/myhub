@@ -2,8 +2,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import "./main.css";
 
-let headinglist = [
-  { id: 1, name: "About" },
+let sectionList = [
+  { id: 1, name: "About", headings: ["profilestatement", "aboutme"] },
   { id: 2, name: "Education" },
   { id: 3, name: "Experience" },
   { id: 4, name: "Contact" },

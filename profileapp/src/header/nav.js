@@ -1,17 +1,17 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 
-let menulist = [
-  { id: 1, name: "About" },
-  { id: 2, name: "Education" },
-  { id: 3, name: "Experience" },
-  // { id: 4, name: "Contact" },
-];
+import { GetAllSections } from "../sections";
+import { GetSectionById } from "../sections";
+
+let menulist = () => {
+  return GetAllSections();
+};
 
 let Nav = function () {
   return (
     <nav id="navmenu">
       <ul>
-        {menulist.map((l) => (
+        {menulist().map((l) => (
           <li key={l.id}>
             <a href={"#" + l.name.toLowerCase()}>{l.name}</a> &nbsp; &nbsp;
             &nbsp; &nbsp;
