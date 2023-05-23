@@ -38,6 +38,10 @@
   }
 }
 
+/**Reset**/
+body, header, main, footer, nav {
+}
+
 /*Grid Areas*/
 header {
   grid-area: header;
@@ -59,10 +63,10 @@ footer {
 @media screen and (max-width: 640px) {}
 
 /*Tablet*/
-@media screen and (max-width: 7600px) {}
+@media screen and (max-width: 760px) {}
 
 /*Desktop*/
-@media screen and (max-width: 120px) {
+@media screen and (min-width: 761px) {
   div#root {
     display: grid;
     gap: 30px;
