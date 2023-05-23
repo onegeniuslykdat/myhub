@@ -63,10 +63,10 @@ footer {
 @media screen and (max-width: 640px) {}
 
 /*Tablet*/
-@media screen and (max-width: 760px) {}
+/* @media screen and (max-width: 760px) {} */
 
 /*Desktop*/
-@media screen and (min-width: 761px) {
+@media screen and (min-width: 641px) {
   div#root {
     display: grid;
     gap: 30px;

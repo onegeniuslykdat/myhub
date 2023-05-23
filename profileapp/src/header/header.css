@@ -70,7 +70,7 @@ header ul {
         display: block;
         position: fixed;
         margin: 0 0 0 0;
-        font-size: 18px;
+        font-size: 22px;
         right: 0;
         top: 0;
         z-index: 99;
@@ -82,7 +82,7 @@ header ul {
 }
 
 /*Tablet*/
-/* @media screen and (min-width: 760px) {
+/* @media screen and (min-width: 641px) {
     header {
         grid-template-areas: "logo logo logo logo logo logo"
         "nav nav nav nav nav nav";
@@ -96,12 +96,12 @@ header ul {
     }
 
     header img {
-        width: 18%;
+        width: 27%;
     }
 
     header ul {
         display: inline-block;
-        font-size: 11px;
+        font-size: 15px;
     }
 
     #logodiv {
@@ -120,5 +120,17 @@ header ul {
 
     nav li {
         display: inline-block;
+    }
+
+    /*Tablet*/
+    @media screen and (max-width: 750px) {
+        header ul {
+            display: inline-block;
+            font-size: 11px;
+        }
+
+        header img {
+            width: 18%;
+        }
     }
 }

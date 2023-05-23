@@ -1,0 +1,47 @@
+div#sidebar {
+    background-color: #282c34;
+    display: grid;
+}
+
+/*Mobile*/
+@media screen and (max-width: 640px) {
+    div#sidebar {
+       display: none;
+    }
+}
+
+/*Tablet*/
+/* @media screen and (min-width: 760px) {
+    header {
+        grid-template-areas: "logo logo logo logo logo logo"
+        "nav nav nav nav nav nav";
+    }
+} */
+
+/*Desktop*/
+@media screen and (min-width: 641px) {
+    div#sidebar {
+        display: block;
+    }
+
+    ul.headings {
+        padding: 3%;
+    }
+
+    ul.headings li {
+        list-style-type: none;       
+        padding: 1% 3%;
+        margin: 7% 0;
+        border-bottom: 1px solid #61dafb;
+    }
+
+    ul.headings li:nth-last-child(1) {
+        border-bottom: none !important;
+        
+    }
+
+    ul.headings li > a {
+        text-decoration: none;
+        color: white;
+    }
+}
