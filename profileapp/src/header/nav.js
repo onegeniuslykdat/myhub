@@ -4,7 +4,7 @@ let menulist = [
   { id: 1, name: "About" },
   { id: 2, name: "Education" },
   { id: 3, name: "Experience" },
-  { id: 4, name: "Contact" },
+  // { id: 4, name: "Contact" },
 ];
 
 let Nav = function () {

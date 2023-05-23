@@ -71,12 +71,12 @@ footer {
     display: grid;
     gap: 30px;
     grid-template-areas: "header header header header header header"
-      "side side main main main main"
-      "side side main main main main"
-      "side side main main main main"
-      "side side main main main main"
-      "side side main main main main"
-      "side side main main main main"
+      "side main main main main main"
+      "side main main main main main"
+      "side main main main main main"
+      "side main main main main main"
+      "side main main main main main"
+      "side main main main main main"
       "footer footer footer footer footer footer";
   }
 }

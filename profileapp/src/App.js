@@ -6,12 +6,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import Header from "./header/header";
 import Sidebar from "./side/sidebar";
+import Main from "./main/main";
 
 function App() {
   return (
     <>
       <Header />
       <Sidebar />
+      <Main />
     </>
   );
 }
