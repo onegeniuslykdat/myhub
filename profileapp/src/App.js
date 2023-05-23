@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./header/header";
 import Sidebar from "./side/sidebar";
 import Main from "./main/main";
+import Footer from "./footer/footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Sidebar />
       <Main />
+      <Footer />
     </>
   );
 }
