@@ -1,18 +1,12 @@
 let sectionsList = [
-  { id: 1, name: "About" },
-  { id: 2, name: "Education" },
-  { id: 3, name: "Experience" },
+  { id: 1, name: "About", title: "Anthony Udochukwu Onyekwere" },
+  { id: 2, name: "Education", title: "My Education" },
+  { id: 3, name: "Experience", title: "My Experience" },
+  { id: 4, name: "Contact", title: "Get in touch" },
 ];
 
 export let GetAllSections = () => {
-  let sections = [];
-  sectionsList.forEach((i) => {
-    sections.push({
-      id: i.id,
-      name: i.name,
-    });
-  });
-  return sections;
+  return sectionsList;
 };
 
 export let GetSectionByName = (Name) => {

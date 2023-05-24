@@ -1,7 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import { GetAllSections } from "../sections";
-import { GetSectionById } from "../sections";
 
 let menulist = () => {
   return GetAllSections();
@@ -23,4 +22,3 @@ let Nav = function () {
 };
 
 export default Nav;
-// add key or id to li or a inside li

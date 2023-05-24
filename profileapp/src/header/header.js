@@ -1,4 +1,6 @@
 import Logo from "../logo.svg";
+import ProfileLogo from "../profilelogo.jpg";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "./header.css";
@@ -10,7 +12,7 @@ let Header = function () {
     <header className="">
       <div id="logodiv">
         <a href="#">
-          <img src={Logo} id="headerlogo" className="" alt="logo" />
+          <img src={ProfileLogo} id="headerlogo" className="" alt="logo" />
         </a>
       </div>
       <Hamburger />

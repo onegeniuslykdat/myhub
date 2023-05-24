@@ -15,7 +15,7 @@ let Sidebar = function () {
         <ul className="headings">
           {headinglist().map((l) => (
             <li key={l.id}>
-              <a href={"#" + l.name.replace("_", "")}>
+              <a href={"#" + l.name.toLowerCase().replace("_", "")}>
                 {l.name.replace("_", " ")}
               </a>{" "}
               &nbsp; &nbsp; &nbsp; &nbsp;

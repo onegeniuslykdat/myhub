@@ -1,26 +1,12 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "./main.css";
+import SectionCard from "./sectioncard";
 
-let sectionList = [
-  { id: 1, name: "About", headings: ["profilestatement", "aboutme"] },
-  { id: 2, name: "Education" },
-  { id: 3, name: "Experience" },
-  { id: 4, name: "Contact" },
-  { id: 5, name: "About" },
-  { id: 6, name: "Education" },
-  { id: 7, name: "Experience" },
-  { id: 8, name: "Contact" },
-  { id: 9, name: "About" },
-  { id: 10, name: "Education" },
-  { id: 11, name: "Experience" },
-  { id: 12, name: "Contact" },
-];
-
-let Main = function () {
+let Main = function (props) {
   return (
     <main id="main" className="container-fluid">
-      <div className="col-12">Tree</div>
+      <SectionCard />
     </main>
   );
 };

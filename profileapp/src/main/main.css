@@ -1,8 +1,15 @@
 main {
     /* background-color: #282c34; */
     display: block;
-    border: 1px solid red;
-    background-color: blue;
+    background-color: floralwhite;
+}
+
+/*Class for headings with projects or not*/
+.noProjects {
+    display: none !important;
+}
+.hasProject {
+    display: block;
 }
 
 /*Mobile*/
