@@ -12,6 +12,20 @@ main {
     display: block;
 }
 
+p.projectTitle {
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-bottom: 2px !important;
+}
+
+.projectsList {
+    list-style-type: none;
+}
+
+.projectsListItem {
+    padding: 1%;
+}
+
 /*Mobile*/
 @media screen and (max-width: 640px) {
     main {

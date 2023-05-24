@@ -22,10 +22,10 @@ let HeadingCard = function (props) {
             h.projects.length === 0 ? "noProjects" : "hasProject"
           }`}
         >
-          <p className="text-center">Projects</p>
-          <ul>
+          <p className="text-center projectTitle">Projects</p>
+          <ul className="projectsList">
             {h.projects.map((p) => (
-              <li>{p}</li>
+              <li className="projectsListItem">{p}</li>
             ))}
           </ul>
         </div>
