@@ -1,5 +1,3 @@
-import { GetSectionById } from "./sections";
-
 let headingsList = [
   {
     id: 1,
@@ -14,12 +12,12 @@ let headingsList = [
     name: "Profile_Statement",
     sectionid: 1,
     lead: "",
-    desc: "Dedicated Software Solutions Developer using JavaScript, C# and the ASP.NET/.NETCORE framework to develop web applications that solve problems and automate organizational processes.",
+    desc: "Dedicated Software Engineer across various sectors. Set out to build solutions that outlive me.",
     projects: [],
-  }, //I am seeking to apply myself to solve more challenging IT related problems that would improve organizational efficiency and shape the world.
+  },
   {
     id: 3,
-    name: "University - Postgraduate Degree",
+    name: "University - Masters Degree",
     sectionid: 2,
     lead: "James Cook University, Brisbane, Australia",
     desc: "2024: MSc. - Information Technology (Computing)",
@@ -35,20 +33,24 @@ let headingsList = [
   },
   {
     id: 5,
-    name: "Secondary_School",
+    name: "Secondary School",
     sectionid: 2,
     lead: "Nigerian Tulip Int'l College, Ogun, Nigeria",
     desc: "2010: SSCE",
     projects: [],
   },
-  // {
-  //   id: 6,
-  //   name: "Primary_School",
-  //   sectionid: 2,
-  //   lead: "Nazareth Nur/Pry School, Festac",
-  //   desc: "2004: First School Leaving Certificate",
-  //   projects: [],
-  // },
+  {
+    id: 6,
+    name: "Symplicity",
+    sectionid: 3,
+    lead: "2023-2024: Software Developer at CareerHub, Symplicity",
+    desc: "C#, .Net framework, React/Typescript, SQL, Azure DevOps",
+    projects: [
+      "Development of event booking forms which enhanced the event booking process for clients. Clients were able to collect key prerequisite information of jobseekers who booked into events",
+      "Improvement of email communications features across different modules on the portal",
+      "Improvement of admin settings across different modules in the admin portal",
+    ],
+  },
   {
     id: 7,
     name: "Access_Bank",
@@ -77,29 +79,15 @@ let headingsList = [
     id: 9,
     name: "NTIC",
     sectionid: 3,
-    lead: "2019-2020: Web Developer",
+    lead: "2019-2020: Web Developer at Nigerian Tulip Int'l College, Lagos",
     desc: "HTML, CSS, Javascript, VB, MS-Access",
     projects: [
       "Summer camp E-Timetable: Web page with automatic zoom link generation that enables participants of a virtual summer camp have access to the programs at the appropriate time",
       "E-Voting desktop application",
     ],
   },
-  // {
-  //   id: 10,
-  //   name: "NYSC",
-  //   sectionid: 3,
-  //   lead: "Software Solutions Developer",
-  //   desc: "",
-  // },
-  // {
-  //   id: 11,
-  //   name: "Links",
-  //   sectionid: 4,
-  //   lead: "",
-  //   desc: "",
-  // },
   {
-    id: 12,
+    id: 10,
     name: "My_Email",
     sectionid: 4,
     lead: "Email",
